@@ -1,6 +1,7 @@
 [![build status](https://secure.travis-ci.org/cucumber/cucumber-html.svg)](http://travis-ci.org/cucumber/cucumber-html)
 
-Cucumber-HTML is a cross-platform HTML formatter for all the Cucumber implementations. It's currently only used by Cucumber-JVM ~and Cucumber.js, but may be used by other implementations later~.
+Cucumber-HTML is a cross-platform HTML formatter for all the Cucumber implementations. It is
+currently only used by Cucumber-JVM ~and Cucumber.js, but may be used by other implementations later~.
 
 
 > **Update Juli 2018**: `cucumber-html` has been inlined into `cucumber-jvm`. 
